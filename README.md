@@ -2,9 +2,9 @@
   <img width="160" height="160" src="https://xfbrowser.fwh.is/xf.jpg" />
 </p>
 
-<h1 align="center" style="font-size:4rem;background:linear-gradient(to right,#ff0000,#ff3366,#ff66cc,#6699ff,#3366ff,#0000ff);-webkit-background-clip:text;background-clip:text;color:transparent;">
-  xuanfeng0316
-</h1>
+<p align="center">
+  <img width="668" height="98" src="https://xuanfeng0316.com/title.jpg" alt="xuanfeng0316" />
+</p>
 
 <p align="center">
   a 14-year-old hobbyist computer enthusiast
