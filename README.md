@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="668" height="98" src="https://xuanfeng0316.com/title.jpg" alt="xuanfeng0316" />
+  <img width="668" height="98" src="https://xuanfeng0316.com/title.jpg?v=2" alt="xuanfeng0316" />
 </p>
 
 <p align="center">
